@@ -10,4 +10,4 @@ on:
 
 jobs:
   build:
-    uses: ndkhanh-axonivy/github-workflows/.github/workflows/release-drafter.yml
+    uses: ndkhanh-axonivy/github-workflows/.github/workflows/release-drafter.yml@master
