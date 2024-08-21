@@ -10,4 +10,4 @@ on:
 
 jobs:
   build:
-    uses: axonivy-market/github-workflows/.github/workflows/release-drafter.yml@v4
+    uses: ndkhanh-axonivy/github-workflows/.github/workflows/release-drafter.yml@v4
