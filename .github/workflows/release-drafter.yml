@@ -14,8 +14,8 @@ on:
       prerelease:
         description: 'Is this a prerelease?'
         required: false
-        default: 'false'
-        type: string
+        default: false
+        type: boolean
 
 permissions:
   contents: write
