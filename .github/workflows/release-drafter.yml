@@ -10,7 +10,7 @@ on:
     inputs:
       version:
         description: 'Release version'
-        required: false
+        required: true
       prerelease:
         description: 'Is this a prerelease?'
         required: false
@@ -23,7 +23,7 @@ permissions:
 
 jobs:
   build:
-    uses: ndkhanh-axonivy/github-workflows/.github/workflows/release-drafter.yml@master
+    uses: ndkhanh-axonivy/github-workflows/.github/workflows/release-drafter.yml@v4
     with:
       version: ${{ github.event.inputs.version }}
       prerelease: ${{ github.event.inputs.prerelease }}
