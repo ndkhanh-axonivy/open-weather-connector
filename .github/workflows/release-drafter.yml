@@ -17,6 +17,10 @@ on:
         default: 'false'
         type: string
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   build:
     uses: ndkhanh-axonivy/github-workflows/.github/workflows/release-drafter.yml@master
