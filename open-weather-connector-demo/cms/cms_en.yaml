@@ -7,7 +7,7 @@ Dialogs:
             ui:
               ForecastWeatherDemo:
                 CelsiusNotation: °C
-                CityNameLabel: City name
+                CityNameLabel: City name PO
                 CountryCodeLabel: Country code
                 FahrenheitNotation: °F
                 Header: Find Weather Forecasts in Any City
