@@ -16,7 +16,7 @@ Dialogs:
                 SearchLabel: Search
                 StateCodeLabel: State code heheheheh
                 TemperatureLabel: Temperature fix issue
-                Title: ForecastWeatherDemo
+                Title: ForecastWeatherDemo increate version
                 WindSpeedLabel: Wind speed
 Processes:
   ForecastWeatherDemo:
