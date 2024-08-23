@@ -15,7 +15,7 @@ Dialogs:
                 PrecipitationLabel: Precipitation
                 SearchLabel: Search
                 StateCodeLabel: State code heheheheh
-                TemperatureLabel: Temperature
+                TemperatureLabel: Temperature fix issue
                 Title: ForecastWeatherDemo
                 WindSpeedLabel: Wind speed
 Processes:
