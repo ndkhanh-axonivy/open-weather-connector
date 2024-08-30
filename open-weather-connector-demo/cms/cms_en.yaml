@@ -7,16 +7,16 @@ Dialogs:
             ui:
               ForecastWeatherDemo:
                 CelsiusNotation: °C
-                CityNameLabel: City name
+                CityNameLabel: City name PO
                 CountryCodeLabel: Country code
                 FahrenheitNotation: °F
                 Header: Find Weather Forecasts in Any City
                 HumidityLabel: Humidity
                 PrecipitationLabel: Precipitation
                 SearchLabel: Search
-                StateCodeLabel: State code
-                TemperatureLabel: Temperature
-                Title: ForecastWeatherDemo
+                StateCodeLabel: State code heheheheh
+                TemperatureLabel: Temperature fix issue
+                Title: ForecastWeatherDemo increate version
                 WindSpeedLabel: Wind speed
 Processes:
   ForecastWeatherDemo:
