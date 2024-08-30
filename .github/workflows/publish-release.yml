@@ -13,6 +13,6 @@ jobs:
   build:
     uses: ndkhanh-axonivy/github-workflows/.github/workflows/publish-release.yml@v4
     # The release should be published automatically.
-    # Uncomment and set to 'false' if you want to prevent the release from being published immediately.
+    # Uncommalse' if you want to prevent the release from being published immediately.
     # with:
     #   publish_release: false
